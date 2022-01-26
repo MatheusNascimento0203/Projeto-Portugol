@@ -1,0 +1,15 @@
+algoritmo "Porcentagem com Aumento"
+
+var
+Salario:Real
+Aumento:Real
+
+inicio
+ Escreval("Cálculo de aumento de Sálario por porcentagem.")
+ Escreva ("Digite seu salário:")
+ Leia(Salario)
+ Escreva ("Digite a porcentagem do aumento:")
+ Leia(Aumento)
+ Escreva("Seu salário com aumento é R$:", salario + (aumento*salario/100))
+
+Fimalgoritmo

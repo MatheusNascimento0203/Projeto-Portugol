@@ -1,0 +1,11 @@
+Repetição – (Repita)
+
+Var
+Digite:caracter
+
+inicio
+ Repita
+    escreva("Digite algo na tela: ")
+    Leia (Digite)
+    Escreval (Digite)
+ Ate digite = "Matheus"
